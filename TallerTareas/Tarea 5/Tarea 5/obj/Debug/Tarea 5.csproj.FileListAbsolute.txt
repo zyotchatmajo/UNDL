@@ -1,0 +1,10 @@
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe.config
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\bin\Debug\Tarea 5.pdb
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csprojAssemblyReference.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\obj\Debug\Tarea_5.Form1.resources
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\obj\Debug\Tarea_5.Properties.Resources.resources
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csproj.GenerateResource.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\obj\Debug\Tarea 5.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 5\Tarea 5\obj\Debug\Tarea 5.pdb
